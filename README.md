@@ -14,7 +14,7 @@ I am very well organised with all my tasks and things which helps get a clearer,
 I am always eager to learn something new and can quickly grasp new concepts by improving and correcting upon previous mistakes.I am Computer Engineer, who found his true passion in coding. I love the combination of creative and logical problem-solving skills I get to use when writing code. And I love how there's always more to Learn! I am very well organised with all my tasks and things which helps get a clearer, bigger picture under pressure. I am always eager to learn something new and can quickly grasp new concepts by improving and correcting upon previous mistakes.
 I am interested in data science, system design, artificial intelligence and machine learning.
 
-![Dharmil's github stats](https://github-readme-stats.vercel.app/api/?username=thedharmilnagda&show_icons=true&title_color=ffd1dc&icon_color=79ff97&text_color=ffd1dc&bg_color=151515)
+![Dharmil's github stats](https://github-readme-stats.vercel.app/api/?username=dharmilnagda&show_icons=true&title_color=ffd1dc&icon_color=79ff97&text_color=ffd1dc&bg_color=151515)
 
 ### My Skills
 <b>
