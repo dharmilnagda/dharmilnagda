@@ -25,7 +25,6 @@ I am interested in data science, system design, artificial intelligence and mach
 ✍🏻 Git & GitHub<br>
 </b>
 
-### Have a look at : nikhilailani.com
 
 ### Let's Get in touch
 <p >
